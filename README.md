@@ -96,11 +96,8 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rimonmajumder&theme=radical&no-frame=false&no-bg=false&margin-w=12&margin-h=12&row=2&column=4" alt="Rimon's GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rimonmojumdar&theme=radical&no-frame=false&no-bg=false&margin-w=12&margin-h=12&row=2&column=4&v=1" alt="GitHub Trophies" />
 </p>
-
 ### 💼 Featured Projects
 
 <p align="center">
