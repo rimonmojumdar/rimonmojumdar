@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1>Hi 👋, I'm Rimon Mojumdar</h1>
+<h1>Hi 👋, I'm YASH MOJUMdER</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+%F0%9F%92%BB;Bootstrap+%26+JavaScript+Enthusiast;UI%2FUX+Designer+in+Figma+%F0%9F%8E%A8;Turning+Ideas+Into+Pixels+%E2%9C%A8" alt="Typing SVG" />
 
@@ -64,33 +64,53 @@
 
 <br/>
 
-📫 **Reach me at:** [rimonmojumdar67@gmail.com](mailto:rimonmojumdar67@gmail.com)
+📫 *Reach me at:* [rimonmojumdar67@gmail.com](mailto:rimonmojumdar67@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,git,github,vscode,figma,nodejs" alt="My Skills" />
-</p>
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" /><br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" /><br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br/><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" /><br/><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /><br/><sub><b>React.js</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br/><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /><br/><sub><b>Figma</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /><br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br/><sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
 
----
 
-### 📊 GitHub Analytics
+### 🔥 My GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rimonmojumdar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimonmojumdar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimonmojumdar&theme=radical&hide_border=true&stroke=007ACC&background=0d1117" alt="Rimon's GitHub Streak" width="85%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimonmojumdar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimonmojumdar&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%" />
-</p>
-
----
-
 
 
 ### 🏆 GitHub Trophies
@@ -113,8 +133,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rimonmojumdar&repo=BMR-BMI-CALCULATOR-CHEAK&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
-> 🔥 More exciting projects coming soon — stay tuned!
+🔥 More exciting projects coming soon — stay tuned!
+!
 
 ---
 
@@ -143,6 +163,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=120&section=footer" width="100%" />
 
-**Thanks for visiting my profile! Have a great day! 🚀**
+*Thanks for visiting my profile! Have a great day! 🚀*
 
 </div>
