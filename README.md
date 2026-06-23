@@ -113,10 +113,17 @@
 </p>
 
 
-### 🏆 GitHub Trophies
+### 🏆 My GitHub Trophies & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rimonmojumdar&theme=radical&no-frame=false&no-bg=false&margin-w=12&margin-h=12&row=2&column=4&v=1" alt="GitHub Trophies" />
+  <!-- Gold Master Trophy -->
+  <img src="https://img.shields.io/badge/🥇_Gold_Trophy-Code_Master-FFD700?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=FFD700" alt="Gold Master" />
+  &nbsp;
+  <!-- Silver Expert Trophy -->
+  <img src="https://img.shields.io/badge/🥈_Silver_Trophy-UI_Expert-C0C0C0?style=for-the-badge&labelColor=0d1117&logo=figma&logoColor=C0C0C0" alt="Silver Expert" />
+  &nbsp;
+  <!-- Bronze Committer Trophy -->
+  <img src="https://img.shields.io/badge/🥉_Bronze_Trophy-Active_Committer-CD7F32?style=for-the-badge&labelColor=0d1117&logo=git&logoColor=CD7F32" alt="Bronze Committer" />
 </p>
 ### 💼 Featured Projects
 
